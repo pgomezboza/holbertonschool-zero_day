@@ -1,1 +1,1 @@
-Welcome to the Code Hour!
+Welcome to the Code Hour from Holberton!
